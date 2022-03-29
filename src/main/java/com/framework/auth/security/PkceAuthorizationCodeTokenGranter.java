@@ -1,4 +1,4 @@
-package com.framework.auth.core;
+package com.framework.auth.security;
 
 import org.apache.commons.codec.binary.Base64;
 import org.springframework.security.crypto.codec.Utf8;
